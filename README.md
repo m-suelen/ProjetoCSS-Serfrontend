@@ -1,5 +1,6 @@
 # 01 Projeto CSS
-Curso de Web Fundamentos: HTML5, CSS3 e Javascript + 5 Projetos pela Udemy
+
+Web Fundamentos: HTML5, CSS3 e Javascript + 5 Projetos do Serfrontend cursos pela Udemy
 
 Primeiro projeto do Curso feito em HTML e CSS
 
