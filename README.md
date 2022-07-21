@@ -8,5 +8,6 @@ conforme a semântica. Revisei o conteúdo e procurei mais informações na inte
 foi centralizar as imagens e alinhar as margens dos parágrafos seguintes. Utilizei a propriedade 
 Float para mover as imagens com Display Block.
 
+
 ![index](https://user-images.githubusercontent.com/104173458/180114018-14e161a9-66c5-41eb-8b57-1bddeaaa6f74.png)
 
