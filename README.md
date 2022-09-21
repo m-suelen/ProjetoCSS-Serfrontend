@@ -1,4 +1,4 @@
-# 01 Projeto CSS
+# 01 - Projeto CSS
 
 Web Fundamentos: HTML5, CSS3 e JavaScript + 5 Projetos do Serfrontend Cursos pela Udemy
 
